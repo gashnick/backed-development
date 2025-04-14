@@ -1,12 +1,12 @@
 {
   "name": "backend-and-api-development",
   "version": "1.0.0",
+  "author": "Nicolas Gashumba",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Nicolas",
   "license": "ISC",
   "description": ""
 }
